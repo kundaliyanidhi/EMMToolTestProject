@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Jul 03 10:50:59 IST 2020","Fri Jul 03 10:51:05 IST 2020","6957","EMM Tool","Chrome Test","com.tests.ValidateHomePage","com.tests.ValidateHomePage","validateLogin","Submit the survey form",""

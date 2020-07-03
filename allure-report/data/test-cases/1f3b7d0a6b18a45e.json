@@ -1,0 +1,82 @@
+{
+  "uid" : "1f3b7d0a6b18a45e",
+  "name" : "Submit the survey form",
+  "fullName" : "com.tests.ValidateHomePage.validateLogin",
+  "historyId" : "b12e39243f1e24e2c13a7c3286845f49",
+  "time" : {
+    "start" : 1593687588194,
+    "stop" : 1593687596457,
+    "duration" : 8263
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Account Selection",
+      "time" : {
+        "start" : 1593687592628,
+        "stop" : 1593687596454,
+        "duration" : 3826
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.tests.ValidateHomePage"
+  }, {
+    "name" : "testClass",
+    "value" : "com.tests.ValidateHomePage"
+  }, {
+    "name" : "testMethod",
+    "value" : "validateLogin"
+  }, {
+    "name" : "parentSuite",
+    "value" : "EMM Tool"
+  }, {
+    "name" : "suite",
+    "value" : "Chrome Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.tests.ValidateHomePage"
+  }, {
+    "name" : "host",
+    "value" : "WKWIN3243333"
+  }, {
+    "name" : "thread",
+    "value" : "17912@WKWIN3243333.main(1)"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1f3b7d0a6b18a45e.json",
+  "parameterValues" : [ ]
+}

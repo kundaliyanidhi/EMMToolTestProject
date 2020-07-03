@@ -1,0 +1,30 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "EMM Tool",
+    "children" : [ {
+      "name" : "Chrome Test",
+      "children" : [ {
+        "name" : "com.tests.ValidateHomePage",
+        "children" : [ {
+          "name" : "Submit the survey form",
+          "uid" : "46d2289d65bb3045",
+          "parentUid" : "0b792276ab29dee8f55e64605163707e",
+          "status" : "passed",
+          "time" : {
+            "start" : 1593753659006,
+            "stop" : 1593753665963,
+            "duration" : 6957
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "0b792276ab29dee8f55e64605163707e"
+      } ],
+      "uid" : "d09317c906948fca1d611f8c05a3fc16"
+    } ],
+    "uid" : "5092e40cf575feb8f0345e32ecc51f2f"
+  } ]
+}

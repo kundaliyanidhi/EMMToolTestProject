@@ -1,0 +1,162 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "WKWIN3243333",
+    "children" : [ {
+      "name" : "13588@WKWIN3243333.main(1)",
+      "children" : [ {
+        "name" : "Submit the survey form",
+        "uid" : "1198a8bbc9939e39",
+        "parentUid" : "52cc27dc79a3fd1633eea6f155344330",
+        "status" : "broken",
+        "time" : {
+          "start" : 1593685693191,
+          "stop" : 1593685734068,
+          "duration" : 40877
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "52cc27dc79a3fd1633eea6f155344330"
+    }, {
+      "name" : "13756@WKWIN3243333.main(1)",
+      "children" : [ {
+        "name" : "Submit the survey form",
+        "uid" : "2f6b8f9ae47636ee",
+        "parentUid" : "7845e511ba30e6007dfe00f5c1e938e7",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1593682678392,
+          "stop" : 1593682678393,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7845e511ba30e6007dfe00f5c1e938e7"
+    }, {
+      "name" : "15160@WKWIN3243333.main(1)",
+      "children" : [ {
+        "name" : "Submit the survey form",
+        "uid" : "a1509b432ad7fe8a",
+        "parentUid" : "69d64f937795813b64f688402a8ca976",
+        "status" : "broken",
+        "time" : {
+          "start" : 1593686330039,
+          "stop" : 1593686346616,
+          "duration" : 16577
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "69d64f937795813b64f688402a8ca976"
+    }, {
+      "name" : "10288@WKWIN3243333.main(1)",
+      "children" : [ {
+        "name" : "Submit the survey form",
+        "uid" : "ed9f6a6c4c496833",
+        "parentUid" : "a1f153b31e1cb8e91eddc7c9326ac894",
+        "status" : "broken",
+        "time" : {
+          "start" : 1593746529763,
+          "stop" : 1593746561190,
+          "duration" : 31427
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a1f153b31e1cb8e91eddc7c9326ac894"
+    }, {
+      "name" : "18712@WKWIN3243333.main(1)",
+      "children" : [ {
+        "name" : "Submit the survey form",
+        "uid" : "46d2289d65bb3045",
+        "parentUid" : "e6e79761712e60df0671ba1b75a8aee3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593753659006,
+          "stop" : 1593753665963,
+          "duration" : 6957
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e6e79761712e60df0671ba1b75a8aee3"
+    }, {
+      "name" : "17912@WKWIN3243333.main(1)",
+      "children" : [ {
+        "name" : "Submit the survey form",
+        "uid" : "1f3b7d0a6b18a45e",
+        "parentUid" : "ca3ab72a5a36ed549accc0373b571515",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593687588194,
+          "stop" : 1593687596457,
+          "duration" : 8263
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ca3ab72a5a36ed549accc0373b571515"
+    }, {
+      "name" : "19948@WKWIN3243333.main(1)",
+      "children" : [ {
+        "name" : "Submit the survey form",
+        "uid" : "45f673694e305a69",
+        "parentUid" : "b5764342c36cc033df11d3995ed6c943",
+        "status" : "broken",
+        "time" : {
+          "start" : 1593685262987,
+          "stop" : 1593685269981,
+          "duration" : 6994
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b5764342c36cc033df11d3995ed6c943"
+    }, {
+      "name" : "8476@WKWIN3243333.main(1)",
+      "children" : [ {
+        "name" : "Submit the survey form",
+        "uid" : "ddc8eac3458a7310",
+        "parentUid" : "29ee0c2d5ddd9c8d5df22b07e4566d36",
+        "status" : "broken",
+        "time" : {
+          "start" : 1593685180442,
+          "stop" : 1593685188761,
+          "duration" : 8319
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "29ee0c2d5ddd9c8d5df22b07e4566d36"
+    }, {
+      "name" : "8956@WKWIN3243333.main(1)",
+      "children" : [ {
+        "name" : "Submit the survey form",
+        "uid" : "625a119f310dd511",
+        "parentUid" : "d6cbd827a1c1daa307b5a6676d8405c9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1593685463528,
+          "stop" : 1593685474842,
+          "duration" : 11314
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d6cbd827a1c1daa307b5a6676d8405c9"
+    } ],
+    "uid" : "c141c0e4be6e8c83ffe775388ede9058"
+  } ]
+}

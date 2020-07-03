@@ -1,0 +1,11 @@
+[ {
+  "uid" : "46d2289d65bb3045",
+  "name" : "Submit the survey form",
+  "time" : {
+    "start" : 1593753659006,
+    "stop" : 1593753665963,
+    "duration" : 6957
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+} ]
